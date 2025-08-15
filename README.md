@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on my group project, recipe web portal!! <br><br>My pastimes often include coding, watching marine life documentaries or F1, or going out with friends.
+I’m currently working on my group project, recipe web portal!! <br><br>My pastimes often include coding, watching marine life documentaries or F1, or going out with friends. <br><br>Currently I'm learning Java and C, hopefully soon to branch out into C# or C++ 
 
 ## 🌐 Socials:
 
