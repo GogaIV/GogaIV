@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m currently working on my group project, recipe web portal!! <br><br>My hobbies include space and marine science 
-
+I’m currently working on my group project, recipe web portal!! <br><br>My pastimes often include coding, watching marine life documentaries, or going out
 
 ## 🌐 Socials:
 
