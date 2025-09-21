@@ -1,5 +1,5 @@
 # About Me 🦭:
-I’m currently working on my group project, recipe web portal (its under the org section)!! <br><br>My pastimes often include coding, watching marine life documentaries or F1, or going out with friends. <br><br>Currently I'm learning Java and C, hopefully soon to branch out into C# or C++ 
+I’m currently working on my group project, recipe web portal (its under the org section)!! <br><br>My pastimes often include coding, watching marine documentaries or F1, or going out with friends. <br><br>Currently I'm learning Java and C, hopefully soon to branch out into C# or C++ 
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jauhar.Goga.27) 
