@@ -15,7 +15,6 @@ I have lengthy experience with the following languages:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jauhar-goga) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/GogaIV/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29973644) 
-
 ##
 [![Goga's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogaiv&theme=github_dark&show_icons=true)](https://github-readme-stats.vercel.app/api?username=gogaiv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1)
 <br>
