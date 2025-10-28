@@ -1,6 +1,6 @@
 ##
 I’m currently learning C# more in-depth to hopefully branch into backend development. <br>
-My most recent completed project was the Flask Recipe WebApp
+My most recent completed project was the Flask Recipe WebApp!
 <br><br>
 I have lengthy experience with the following languages:
 * C
