@@ -7,6 +7,7 @@ I have lengthy experience with the following languages:
 * Python
 * Java
 * JavaScript
+* TypeScript
 * SQL
 ##
 [![Goga's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogaiv&theme=github_dark&show_icons=true)](https://github-readme-stats.vercel.app/api?username=gogaiv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1)
