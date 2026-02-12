@@ -3,7 +3,6 @@ I’m currently learning C# more in-depth to hopefully branch into backend devel
 My most recent completed project was the Flask Recipe WebApp!
 <br><br>
 I have lengthy experience with the following languages:
-* C
 * C#
 * Python
 * Java
