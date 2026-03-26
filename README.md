@@ -4,7 +4,8 @@ I'm currently working on ElectronDictionaryApp <br><br>
 
 My most recent completed project was the Flask Recipe WebApp<br>
 Check Repos for mentioned projects!
-<br><br>
+<br>
+##
 I have lengthy experience with the following languages:
 * C#
 * Python
