@@ -1,6 +1,6 @@
 ##
 I’m currently learning C# more in-depth to hopefully branch into backend development. <br>
-I'm currently working on ElectronDictionaryApp <br><br>
+I'm currently working on ElectronDictionaryApp and helping with the VPS Project<br><br>
 
 My most recent completed project was the Flask Recipe WebApp<br>
 Check Repos for mentioned projects!
