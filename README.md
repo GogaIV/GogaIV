@@ -14,7 +14,7 @@ I have lengthy experience with the following languages:
 * TypeScript
 * SQL
 ##
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gogaiv&layout=compact)<br>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gogaiv&layout=compact&theme=dark)<br>
 ##
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jauhar.Goga.27) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gogaurr)
