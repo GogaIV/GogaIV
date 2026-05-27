@@ -6,7 +6,7 @@ My most recent completed project was the Flask Recipe WebApp<br>
 Check Repos for mentioned projects!
 <br>
 ##
-I have lengthy experience with the following languages:
+I have experience with the following languages:
 * C#
 * Java
 * Python
