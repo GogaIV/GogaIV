@@ -1,5 +1,5 @@
 ##
-I’m currently learning C# more in-depth to hopefully branch into backend development. <br>
+My speciality is backend development ☺️ <br>
 I'm currently working on ElectronDictionaryApp and helping with the VPS Project<br>
 
 My most recent completed project was the Flask Recipe WebApp<br>
@@ -8,8 +8,8 @@ Check Repos for mentioned projects!
 ##
 I have lengthy experience with the following languages:
 * C#
-* Python
 * Java
+* Python
 * JavaScript
 * TypeScript
 * SQL
