@@ -1,4 +1,7 @@
 ##
+I'm a penultimate Bachelor of Science student studying Computer Science with a strong interest in software development
+and technology
+
 My speciality is backend development ☺️ <br>
 I'm currently working on ElectronDictionaryApp and helping with the VPS Project<br>
 
