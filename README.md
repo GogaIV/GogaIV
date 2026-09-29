@@ -1,6 +1,6 @@
 ##
-I'm a penultimate Bachelor of Science student studying Computer Science with a strong interest in software development
-and technology
+I'm a penultimate Bachelor of Science student studying Computer Science with a strong interest in software development. 
+Outside of this my hobbies are bouldering, tech and my cat 🐈‍⬛
 
 My speciality is backend development ☺️ <br>
 I'm currently working on ElectronDictionaryApp and helping with the VPS Project<br>
