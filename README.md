@@ -3,7 +3,7 @@ I'm a penultimate Bachelor of Science student studying Computer Science with a s
 Outside of this my hobbies are bouldering, tech and my cat 🐈‍⬛
 
 My speciality is backend development ☺️ <br>
-I'm currently working on ElectronDictionaryApp and helping with the VPS Project<br>
+I'm currently working on ArtifactScripts and helping with the VPS Project<br>
 
 My most recent completed project was the Flask Recipe WebApp<br>
 Check Repos for mentioned projects!
