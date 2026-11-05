@@ -2,7 +2,7 @@
 I'm a final year BSc student studying Computer Science with a strong interest in software development. 
 Outside of this my hobbies are bouldering, tech and my cat 🐈‍⬛
 
-My speciality is backend development (-.-)Zzz・・・・ <br>
+My speciality is backend development ( ´ ▽ ` ) <br>
 I'm currently working on ArtifactScripts and helping with the VPS Project<br>
 
 My most recent completed project was the Flask Recipe WebApp<br>
