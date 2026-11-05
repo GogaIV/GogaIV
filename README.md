@@ -1,8 +1,8 @@
 ##
-I'm a penultimate Bachelor of Science student studying Computer Science with a strong interest in software development. 
+I'm a final year BSc student studying Computer Science with a strong interest in software development. 
 Outside of this my hobbies are bouldering, tech and my cat 🐈‍⬛
 
-My speciality is backend development ☺️ <br>
+My speciality is backend development (-.-)Zzz・・・・ <br>
 I'm currently working on ArtifactScripts and helping with the VPS Project<br>
 
 My most recent completed project was the Flask Recipe WebApp<br>
