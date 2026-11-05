@@ -6,7 +6,7 @@ My speciality is backend development ( ´ ▽ ` ) <br>
 I'm currently working on ArtifactScripts and helping with the VPS Project<br>
 
 My most recent completed project was the Flask Recipe WebApp<br>
-Check Repos for mentioned projects!
+Check Repos for mentioned projects (゜ロ゜)
 <br>
 ##
 I have experience with the following languages:
